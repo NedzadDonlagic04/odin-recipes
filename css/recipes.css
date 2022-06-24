@@ -1,0 +1,20 @@
+.image-box{
+    width: 300px;
+    height: 300px;
+    margin: 15px auto;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}
+
+h2{
+    margin-top: 15px;
+}
+
+.ordered-box{
+    position: relative;
+    left: 150px;
+    margin: 15px auto;
+}
